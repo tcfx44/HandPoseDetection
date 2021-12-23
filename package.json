@@ -2,16 +2,19 @@
   "name": "handpose",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@tensorflow-models/handpose": "0.0.6",
     "@tensorflow/tfjs": "^2.4.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "caniuse-lite": "^1.0.30001292",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "react-webcam": "^5.2.0"
+    "react-webcam": "^5.2.0",
+    "yarn": "^1.22.17"
   },
   "scripts": {
     "start": "react-scripts start",
